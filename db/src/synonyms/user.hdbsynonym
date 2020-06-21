@@ -1,0 +1,12 @@
+{
+  "UserData.User": {
+    "target": {
+      "object": "UserData.User"
+    }
+  },
+  "Synonym_1": {
+    "target": {
+      "object": "user.models::USER_DETAILS"
+    }
+  }
+}

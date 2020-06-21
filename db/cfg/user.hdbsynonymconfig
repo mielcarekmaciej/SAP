@@ -1,0 +1,15 @@
+{
+  "UserData.User": {
+    "target": {
+      "object": "UserData.User",
+      "grantor": "hdi-user-service"
+
+    }
+  },
+  "Synonym_1": {
+    "target": {
+      "object": "user.models::USER_DETAILS",
+       "grantor": "hdi-user-service"
+    }
+  }
+}
